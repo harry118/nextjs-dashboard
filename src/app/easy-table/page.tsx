@@ -1,4 +1,4 @@
-const AboutPage: React.FC = () => {
+const EasyTablePage: React.FC = () => {
   return (
     <div>
       <h1>About</h1>
@@ -6,4 +6,4 @@ const AboutPage: React.FC = () => {
     </div>
   );
 };
-export default AboutPage;
+export default EasyTablePage;
